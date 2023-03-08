@@ -1,8 +1,8 @@
 package main
 
 import (
+	_ "github.com/neilmfrench/pocketbase-go-sdk"
 	"github.com/pocketbase/pocketbase"
-	_ "github.com/r--w/pocketbase/migrations"
 )
 
 func main() {

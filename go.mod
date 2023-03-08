@@ -1,4 +1,4 @@
-module github.com/r--w/pocketbase
+module github.com/neilmfrench/pocketbase-go-sdk
 
 go 1.20
 
